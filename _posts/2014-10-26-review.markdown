@@ -1,0 +1,14 @@
+---
+title: RecSys Review
+subtitle: A recommender systems newsletter
+layout: default
+modal-id: 2
+url: "http://recommenders.net/review"
+urltitle: "RecSys Review"
+img: review.jpg
+thumbnail: review-thumbnail.jpg
+alt: image-alt
+category: Information
+description: A description of this 
+
+---

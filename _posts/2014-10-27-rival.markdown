@@ -1,0 +1,13 @@
+---
+title: RiVal
+subtitle: Recommender System Evaluation
+layout: default
+modal-id: 1
+url: http://rival.recommenders.net
+urltitle: "RiVal - a toolkit for recommender system evaluation"
+img: rival.jpg
+thumbnail: rival-thumbnail.jpg
+alt: RiVal
+description: RiVal is toolkit for reproducible and objective recommender system evaluation.
+
+---
